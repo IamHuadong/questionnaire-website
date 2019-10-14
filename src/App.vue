@@ -3,7 +3,7 @@
 		<div class="head">
 			<div class='bg'>
 				<div class='title'>
-					<h2>华东的个人网站</h2>
+					<h2>陈华东的个人网站</h2>
 				</div>
 			</div>
 		</div>
@@ -18,15 +18,16 @@
 				<div class='title'>博客</div>
 				<div class='texts'>
 					构建中...
+					<h1>网站初建，只为展示项目经历，日后慢慢完善</h1>
 				</div>
 			</div>
 			<div class='right'>
-				<div class='title'>项目链接</div>
+				<div class='title'>项目经历</div>
 				<div class='texts'>
 					前端项目：
 					<ul>
-						<li><a href="#" target='_blank'>高仿饿了么</a></li>
-						<li><a href="#" target='_blank'>调查问卷</a></li>
+						<li><b><a href="http://localhost:8080/eleme.html" target='_blank'>高仿饿了么</a></b></li>
+						<li><a href="http://localhost:8080/questionnaire.html" target='_blank'>调查问卷</a>(计划中...)</li>
 					</ul>
 					github地址：
 					<a href="https://github.com/IamHuadong" target='_blank'>https://github.com/IamHuadong</a>
@@ -83,7 +84,7 @@ export default{
 			display flex
 			border-top 2px solid black
 			.left
-				flex 0 0 280px
+				flex 0 0 400px
 				border-right 1px solid black
 			.middle
 				margin 0 20px
@@ -91,9 +92,9 @@ export default{
 				border-left 1px solid black
 				border-right 1px solid black
 			.right
-				flex 0 0 280px
+				flex 0 0 400px
 				border-left 1px solid black
-				.links
+				.texts
 					padding 10px
 					li
 						margin-top 10px
@@ -103,7 +104,7 @@ export default{
 						&:link
 							color black
 						&:visited
-							color blue
+							color green
 						&:hover
 							color red
 			.title
