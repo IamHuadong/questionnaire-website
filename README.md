@@ -1,6 +1,6 @@
  
 # chd-website
-##网站预览：[个人网站地址](chd1994.club:8086)
+## 网站预览： [个人网站地址](http://chd1994.club:8086)
 ## Project setup
 ```
 npm install
