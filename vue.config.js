@@ -21,7 +21,7 @@ module.exports = {
             title: 'eleme page',
 
             // 包含的模块，可选项
-            chunks: ['eleme']
+            // chunks: ['eleme']
         },
         questionnaire: {
             // 应用入口配置，相当于单页面应用的main.js，必需项
@@ -38,7 +38,7 @@ module.exports = {
             title: 'questionnaire page',
 
             // 包含的模块，可选项
-            chunks: ['questionnaire']
+            // chunks: ['questionnaire']
         }
     }
 }

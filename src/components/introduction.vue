@@ -9,7 +9,7 @@
 				<li>熟悉前端框架vue，有项目开发经验</li>
 				<li>熟悉使用github,git</li>
 				<li>了解前后交互</li>
-				<li>了解node的后端配置</li>
+				<li>了解node的后端配置，有网站开发经验</li>
 				<li>了解mySQL的使用</li>
 			</ul>
 		</div>

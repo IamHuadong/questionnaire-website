@@ -17,8 +17,7 @@
 			<div class='middle'>
 				<div class='title'>博客</div>
 				<div class='texts'>
-					构建中...
-					<h1>网站初建，只为展示项目经历，日后慢慢完善</h1>
+					将来加入...
 				</div>
 			</div>
 			<div class='right'>
@@ -26,8 +25,8 @@
 				<div class='texts'>
 					前端项目：
 					<ul>
-						<li><b><a href="http://localhost:8080/eleme.html" target='_blank'>高仿饿了么</a></b></li>
-						<li><a href="http://localhost:8080/questionnaire.html" target='_blank'>调查问卷</a>(计划中...)</li>
+						<li><b><a href="/eleme.html" target='_blank'>高仿饿了么</a></b></li>
+						<li><a href="/questionnaire.html" target='_blank'>调查问卷</a>(计划中...)</li>
 					</ul>
 					github地址：
 					<a href="https://github.com/IamHuadong" target='_blank'>https://github.com/IamHuadong</a>
@@ -100,13 +99,7 @@ export default{
 						margin-top 10px
 					a
 						text-decoration none
-						color black
-						&:link
-							color black
-						&:visited
-							color green
-						&:hover
-							color red
+						color green
 			.title
 				width 100%
 				text-align center
