@@ -15,5 +15,3 @@ npm run dev
 npm run build
 ```
 ## 项目实现流程
-### 1 [天气组件编写](https://github.com/IamHuadong/chd-website/issues/1)  
-### 1 [登录注册组件编写](https://github.com/IamHuadong/chd-website/issues/2)  
